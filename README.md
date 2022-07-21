@@ -17,7 +17,7 @@
 
 ### GitHub Stats
 
-| <img align="right" src="https://github-readme-stats.vercel.app/api?username=innerYho&show_icons=true&theme=aura&line_height=25" alt="innerYho's github stats"/> | <img  src="https://github-readme-stats.vercel.app/api?username=innerYho&show_icons=true&theme=aura"/> |
+| <img align="right" src="https://github-readme-stats.vercel.app/api?username=innerYho&show_icons=true&theme=aura&line_height=25" alt="innerYho's github stats"/> |  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=innerYho&theme=dark" width=""> |
 | --------- | --------- |
 
 ***
