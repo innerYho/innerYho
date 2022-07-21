@@ -22,8 +22,8 @@
 
 ***
 
- | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innerYho&langs_count=10&theme=aura&layout=compact"> |
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=innerYho&langs_count=8&theme=aura" > |
+ | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innerYho&langs_count=10&theme=aura&layout=compact"> |
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innerYho&langs_count=8&theme=aura" > |
  | ----------- |
 
 
